@@ -1,1 +1,1 @@
-Readme shell basic
+Scripts about permission
