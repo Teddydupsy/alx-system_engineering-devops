@@ -1,2 +1,2 @@
 #!/bin/bash
-getLine2.sh iacta 5
+head -n 5 iacta | tail -1
