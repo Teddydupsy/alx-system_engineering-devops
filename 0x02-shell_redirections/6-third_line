@@ -1,2 +1,2 @@
 #!/bin/bash
-cat getLine.sh iacta 3
+getLine2.sh iacta 5
