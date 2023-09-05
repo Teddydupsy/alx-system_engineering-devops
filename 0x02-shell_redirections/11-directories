@@ -1,4 +1,2 @@
 #!/bin/bash
-find . -type d | wc#!/bin/bash
-find . -type d | wc#!/bin/bash
-find . -type d | wc
+file . -type d -not -name '_' | wc -l
